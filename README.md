@@ -1,4 +1,5 @@
 # coffee-Shop-Sales-Using-Power-BI-SQL
+![image alt](https://github.com/vidhateshamal2000/coffee-Shop-Sales-Using-Power-BI-SQL/blob/632558aa59eae8167a123ac70b14e42537c54055/coffee%20shop%20sales.png)
 
 # Coffee Shop Sales Analysis
 
