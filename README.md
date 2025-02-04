@@ -71,4 +71,7 @@ ORDER BY MONTH(transaction_date);
 - Expansion of analysis to yearly trends and customer segmentation.
 
 -[View Power BI Report](https://app.powerbi.com/groups/me/reports/a2c56160-a797-400e-8d2b-15401d0fb6b0/8c82b84e4dd26a6921a3?experience=power-bi)
+
+<iframe width="800" height="600" src="https://app.powerbi.com/groups/me/reports/a2c56160-a797-400e-8d2b-15401d0fb6b0/8c82b84e4dd26a6921a3?experience=power-bi
+" frameborder="0" allowFullScreen="true"></iframe>
  
